@@ -1,6 +1,4 @@
-# Proyecto Podcast - page
-
-# Frontend Mentor - Blogr landing page
+# Proyecto Podcast channel
 
 ## The challenge
 Users should be able to:
@@ -12,6 +10,7 @@ Users should be able to:
 ## Links 
 - 📌 Solution URL: [Podcast channel](https://gemmaceous-compasse.000webhostapp.com/Podcast-page/)
 
+
 ## My process
 
 - Semantic HTML5 markup
@@ -19,11 +18,13 @@ Users should be able to:
 - CSS custom properties
 - Flexbox 
 
+
 ## Layout
 
 The designs were created to the following widths:
 - Mobile: 325px
 - Desktop: 1265px
+
 
 ## Author
 
